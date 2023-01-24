@@ -1,3 +1,14 @@
 .App {
   text-align: center;
 }
+
+body {
+  background: url('./images/background.png');
+}
+
+p, h1, h2 {
+  color: white;
+  font-family: Epilogue , Times New Roman , Times , serif;
+  line-height: 24px;
+  size: 16px;
+}
